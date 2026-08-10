@@ -1,14 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<items>
-    <item>
+<products>
+    <product>
         <identity>1</identity>
         <title>Blue T-Shirt</title>
         <web_url>https://example.com/products/blue-tshirt</web_url>
-    </item>
+        <description>Blue cotton T-shirt</description>
+        <price>500</price>
+        <availability>1</availability>
+    </product>
 
-    <item>
+    <product>
         <identity>2</identity>
         <title>Black Hoodie</title>
         <web_url>https://example.com/products/black-hoodie</web_url>
-    </item>
-</items>
+        <description>Black cotton hoodie</description>
+        <price>800</price>
+        <availability>1</availability>
+    </product>
+</products>
