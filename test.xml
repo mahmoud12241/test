@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE example [
-		 <!ENTITY file "Vulnerable!">
-		]>
 <items>
   <item>
     <identity>product-123</identity>
@@ -9,5 +6,4 @@
     <web_url>https://example.com/products/blue-tshirt</web_url>
   </item>
   <!-- more products -->
-
 </items>
