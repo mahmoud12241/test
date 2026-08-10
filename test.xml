@@ -9,9 +9,5 @@
     <web_url>https://example.com/products/blue-tshirt</web_url>
   </item>
   <!-- more products -->
-  <item>
-    <identity>product-123</identity>
-    <title>&file;</title>
-    <web_url>https://example.com/products/blue-tshirt</web_url>
-  </item>
+
 </items>
