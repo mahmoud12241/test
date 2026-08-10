@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-		<!DOCTYPE example [
-		 <!ENTITY file SYSTEM "https://gotest.free.beeceptor.com">
-		]>
-		<stockCheck>
-				<productId>
-						&file;
-				</productId>
-				<storeId>
-						1
-				</storeId>
-		</stockCheck>
+<items>
+  <item>
+    <identity>product-123</identity>
+    <title><![CDATA[Blue Cotton T-Shirt]]></title>
+    <web_url>https://example.com/products/blue-tshirt</web_url>
+  </item>
+  <!-- more products -->
+</items>
